@@ -28,7 +28,7 @@ Evaluation Score: Pass
 * [GitHub URL](https://github.com/Jessewood/jp-complete-me)
 * [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-2/completeMe/jesse.md)
-
+<br>
 Evaluation Scores:
 
 JS Style: 3
@@ -44,6 +44,7 @@ Code Sanitation: 4
 * [GitHub URL](https://github.com/j25bender/game-time)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-2/gametime/jesse-bender.md)
+<br>
 Evaluation Scores:
 
 Functional Expectations: 3
