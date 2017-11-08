@@ -18,16 +18,16 @@ PASS!
 
 #### Sorting Suite
 
-[GitHub URL](https://github.com/Jessewood/sorting-suite)
+[GitHub URL] (https://github.com/Jessewood/sorting-suite)
 [Original Assignment] (http://frontend.turing.io/projects/sorting-suite.html)
 
 Evaluation Score: Pass
 
 #### Complete Me
 
-[GitHub URL](https://github.com/Jessewood/jp-complete-me)
-[Original Assignment](http://frontend.turing.io/projects/complete-me.html)
-[Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-2/completeMe/jesse.md)
+[GitHub URL] (https://github.com/Jessewood/jp-complete-me)
+[Original Assignment] (http://frontend.turing.io/projects/complete-me.html)
+[Evaluation Comments] (https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-2/completeMe/jesse.md)
 
 Evaluation Scores:
 
@@ -41,8 +41,8 @@ Code Sanitation: 4
 
 #### Game Time
 
-[GitHub URL](https://github.com/j25bender/game-time)
-[Original Assignment](http://frontend.turing.io/projects/game-time.html)
+[GitHub URL] (https://github.com/j25bender/game-time)
+[Original Assignment] (http://frontend.turing.io/projects/game-time.html)
 [Evaluation Comments] (https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-2/gametime/jesse-bender.md)
 Evaluation Scores:
 
@@ -55,8 +55,8 @@ Code Sanitation: 4
 
 #### Weathrly
 
-[GitHub URL](https://github.com/Jessewood/weathrly)
-[Original Assignment](http://frontend.turing.io/projects/weathrly.html)
+[GitHub URL] (https://github.com/Jessewood/weathrly)
+[Original Assignment] (http://frontend.turing.io/projects/weathrly.html)
 Evaluation Comments:
 
 Evaluation Scores:
@@ -73,10 +73,10 @@ Pass
 
 #### Gear Up Reflections:
 
-[Agile Practices](https://gist.github.com/Jessewood/5fd04ba54a1944600a1a2e4fa020f29c)
-[Feedback II](https://gist.github.com/Jessewood/730c301cf73cf318c654f7c96365b47e)
-[Professional Storytelling](https://gist.github.com/Jessewood/887324f9b57b6bcded60b8c4f9bc7f6c)
-[Outreach and Networking](https://gist.github.com/Jessewood/9ef5ccecd233b0128352c89693c467f0)
+[Agile Practices] (https://gist.github.com/Jessewood/5fd04ba54a1944600a1a2e4fa020f29c)
+[Feedback II] (https://gist.github.com/Jessewood/730c301cf73cf318c654f7c96365b47e)
+[Professional Storytelling] (https://gist.github.com/Jessewood/887324f9b57b6bcded60b8c4f9bc7f6c)
+[Outreach and Networking] (https://gist.github.com/Jessewood/9ef5ccecd233b0128352c89693c467f0)
 
 ### E: Community Participation
 
