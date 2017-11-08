@@ -57,7 +57,8 @@ Code Sanitation: 4
 #### Weathrly
 
 * [GitHub URL](https://github.com/Jessewood/weathrly)
-* [Original Assignment](http://frontend.turing.io/projects/weathrly.html)<br>
+* [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
+<br>
 Evaluation Comments:
 
 Evaluation Scores:
