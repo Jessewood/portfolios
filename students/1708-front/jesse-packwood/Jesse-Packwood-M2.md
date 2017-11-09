@@ -59,7 +59,7 @@ Code Sanitation: 4
 * [GitHub URL](https://github.com/Jessewood/weathrly)
 * [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 <br>
-Evaluation Comments:
+[Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1708/mod-2/weatherly/julie_jesse.md)
 
 Evaluation Scores:
 
